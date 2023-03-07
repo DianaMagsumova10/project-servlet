@@ -1,6 +1,7 @@
 package com.tictactoe;
 
-public enum Sign {
+public enum
+Sign {
     EMPTY(' '),
     CROSS('X'),
     NOUGHT('0');
